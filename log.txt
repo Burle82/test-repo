@@ -1,0 +1,202 @@
+commit c10d488c933bd6aaf7bbfa9ddcdbaa6a725cd607
+Merge: 247e71d 2bb1fec
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Mon Nov 14 12:57:37 2022 +0100
+
+    finished
+
+commit 247e71d2a948961a2d9e8018c1076f369e08f987
+Merge: 464ccd9 78c25ce
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Mon Nov 14 12:55:04 2022 +0100
+
+    merging
+
+commit 464ccd93946a708dcd4ff6f0d4cacea1100f993f
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Mon Nov 14 12:52:01 2022 +0100
+
+    proverka na konflikt
+
+commit 2bb1fec1c79379c141ff1bd637a1ad5a7aaa6eaf
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Mon Nov 14 12:50:42 2022 +0100
+
+    predizvikuvanje na konflikt
+
+commit 78c25ce52cfb76b75d93b0d25a433afd35565b68
+Merge: 8738e6c 371e065
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sun Nov 13 01:55:28 2022 +0100
+
+    Merge pull request #6 from Burle82/master
+    
+    Master
+
+commit 371e065e68efe54ac1e6df9c90441b4e65422523
+Merge: e5f01f6 8916b72
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sun Nov 13 01:50:01 2022 +0100
+
+    Merge branch 'master' of https://github.com/Burle82/test-repo into HEAD
+
+commit e5f01f618a3cb3798ddb34aed280933ea24becd8
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sun Nov 13 01:42:55 2022 +0100
+
+    uspesen konflikt1
+
+commit 8738e6c9f995c6928de594750ba780e7e2248ce2
+Merge: 74414bb 97b5472
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sun Nov 13 01:43:56 2022 +0100
+
+    Merge pull request #5 from Burle82/master
+    
+    Master
+
+commit 8916b722eb202552e26c0de8f075f6d7729e75f3
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sun Nov 13 01:42:55 2022 +0100
+
+    uspesen konflikt
+
+commit 97b54720ce9fc54dd816831bad7d1c0d79546e16
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sun Nov 13 01:35:15 2022 +0100
+
+    Update goran.yaml
+
+commit d6628eb1ef8e16d38494ebe3a218d63ffba97cb6
+Merge: c93eaf5 74414bb
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sun Nov 13 01:17:08 2022 +0100
+
+    napravena korekcija
+
+commit c93eaf520c7a022389983f58ae34cefa3b2802ad
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sun Nov 13 01:14:03 2022 +0100
+
+    cistenje na konflikt
+
+commit 74414bb451da9fe35573d5c770fbee8893241fc2
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sun Nov 13 01:10:56 2022 +0100
+
+    predizvikuvanje na konflikt na linija 10 na goran.yaml
+
+commit 2b5926b01fe9ffa7392cef409d218d88c456fe2f
+Merge: 6592f25 ad03d2d
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sat Nov 12 23:06:41 2022 +0100
+
+    Merge pull request #4 from Burle82/master
+    
+    promena na  fajla
+
+commit ad03d2df2c2bd05a90291da2a4b48804f1857145
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sat Nov 12 23:04:46 2022 +0100
+
+    promena na  fajla
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+    ~
+
+commit 6592f25ebff636ea0d53979443fc10ced7c77a11
+Merge: 2926e15 b160089
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sat Nov 12 22:57:56 2022 +0100
+
+    Merge pull request #3 from Burle82/goran
+    
+    nova lnija
+
+commit b160089fe04b9e444d022260ad84f106ae9b886f
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Sat Nov 12 22:56:09 2022 +0100
+
+    nova lnija
+
+commit 2926e1591c6ec9283dc71ad56c98de04c66667a0
+Merge: f5d14fc b16df90
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Fri Nov 11 16:39:20 2022 +0100
+
+    Merge pull request #2 from Burle82/feature/database-connection
+    
+    Feature/database connection
+
+commit b16df90e1abc14d966aad9e5ca9213bcfa60c415
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Fri Nov 11 16:31:37 2022 +0100
+
+    promena vo 4ta linija
+
+commit b5c29fe90d45de1022d2d2c15dde1997ba248f08
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Fri Nov 11 15:17:55 2022 +0100
+
+    promena vo 3ta linija
+
+commit f5d14fc870a6b40b61e7c2e268795371a424d8e5
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Fri Nov 11 13:43:08 2022 +0100
+
+    Added New File
+
+commit 538c861b4859e0933756be08927b988e8b134ecc
+Merge: 063650a 11cedfe
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Thu Nov 10 16:56:38 2022 +0100
+
+    Merge pull request #1 from Burle82/goran
+    
+    nova promena
+
+commit 11cedfe34958f52789e576c8f0307c31027f9491
+Author: Burle82 <goran.zafirovski82@gmail.com>
+Date:   Thu Nov 10 16:44:47 2022 +0100
+
+    nova promena
+
+commit 063650a2bcd71d7c15b3bf58db09e6480ebfbdc2
+Author: Burle82 <goran.zafirovski82@gmail.com>
+Date:   Thu Nov 10 16:00:27 2022 +0100
+
+    nova promena
+
+commit 4e30ef6945204392bcec500f513f6b14d5283cd8
+Author: Burle82 <goran.zafirovski82@gmail.com>
+Date:   Thu Nov 10 15:57:32 2022 +0100
+
+    napravena modifikcija
+
+commit 79be275b2cd40090eaa8d4f9fbb34268976657fb
+Author: Burle82 <goran.zafirovski82@gmail.com>
+Date:   Thu Nov 10 15:55:26 2022 +0100
+
+    goran first commit
+
+commit 5bd0656871576adaae254cded6f8e41f960a3998
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Thu Nov 10 15:45:50 2022 +0100
+
+    Second Commit
+
+commit 597866b5bcc3ba7a0bce4b016102caa7cb5fee8a
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Thu Nov 10 15:45:20 2022 +0100
+
+    Create README.md
+
+commit c7b7e6e8bfd405c06caad887e0d51f021f487c06
+Author: Goran Zavirovski <98807335+Burle82@users.noreply.github.com>
+Date:   Thu Nov 10 15:44:36 2022 +0100
+
+    first commit
