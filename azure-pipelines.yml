@@ -1,0 +1,33 @@
+name: 1.0$(Rev:.r)
+
+trigger:
+- main
+
+resources:
+ repositories:
+   - repository: Goran
+     type: github
+     name: Burle82/test-repo
+     endpoint: gzafirovski
+     ref: master
+     trigger:
+       branches:
+         include:
+           - refs/heads/master
+
+#trigger:
+#- master
+
+variables:
+  name: Fiko
+
+pool:
+  name: Default
+
+jobs:
+- job: checkout
+  steps:
+    - checkout: Goran
+- job: helloworld
+  steps:
+    - script: echo "Hello, $(name)"
