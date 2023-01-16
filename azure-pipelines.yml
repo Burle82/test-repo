@@ -1,7 +1,6 @@
 name: 1.0$(Rev:.r)
 
-trigger:
-- main
+
 
 resources:
  repositories:
