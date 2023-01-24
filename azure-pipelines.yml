@@ -5,7 +5,7 @@ resources:
    - repository: Goran
      type: github
      name: Burle82/test-repo
-     endpoint: gzafirovski
+     endpoint: github.com_Burle82
      ref: master
      trigger:
        branches:
