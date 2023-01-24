@@ -1,7 +1,5 @@
 name: 1.0$(Rev:.r)
 
-
-
 resources:
  repositories:
    - repository: Goran
